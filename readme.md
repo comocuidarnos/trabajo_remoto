@@ -1,4 +1,4 @@
-## Recursos
+## Recursos para Trabajo Remoto
 
 Aquí está una lista de recursos que facilitan el trabajo remoto. Esta lista no es exhaustiva. Si tienen alguna sugerencia pueden abrir un `pull request` y enviar sus sugerencias.
 
